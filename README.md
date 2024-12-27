@@ -1,2 +1,3 @@
 # lotek-bot
-a bot for Discord
+
+A bot for Discord
